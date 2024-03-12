@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Lubient
+- 👋 Hi, I’m @Fitzxerxert
 - 👀 I’m interested in 'ISG'
 - 🌱 I’m currently learning 'C#','typescript','etc'
 - 💞️ I’m looking to collaborate on me!
-- 📫 How to reach me > @fitzherbert_v
+- 📫 How to reach me @fitz_v
 - 😄 Pronouns: As you like
-- ⚡ Fun fact: I like a song!
+- ⚡ Fun fact: I have nightmares every night😂
 
 <!---
 Lubient/Lubient is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
