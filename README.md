@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fitzxerxert
-- 👀 I’m interested in 'ISG'
+- 👀 I’m interested in .. IDK
 - 🌱 I’m currently learning 'C#','typescript','etc'
 - 💞️ I’m looking to collaborate on me!
 - 📫 How to reach me @fitz_v
